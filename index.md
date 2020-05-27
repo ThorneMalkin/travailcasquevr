@@ -1,10 +1,11 @@
-## Welcome to GitHub Pages
+## La réalité virtuelle
 
-You can use the [editor on GitHub](https://github.com/ThorneMalkin/travailcasquevr/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## Introduction
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Le dossier documentaire repris dans cette page Github aura pour sujet la réalité virtuelle. La réalité virtuelle est une technologie permettant une immersion visuelle totale dans un jeu vidéo, une vidéo ou simplement dans un paysage statique. La réalité virtuelle est une innovation technique majeure car elle a non seulement révolutionné le monde du jeu vidéo mais également le domaine de la médecine, dans le milieu juridique, dans le domaine de l'architecture ou encore le domaine militaire. 
+La première partie de ce dossier documentaire concernera l'histoire de la réalité virtuelle, la seconde partie sera dédiée au fonctionnement de celle-ci. Ensuite, dans la troisième partie sera abordé les diverses utilisations de la réalité virtuelle. Enfin, la quatrième partie sera dédiée aux différents produits disponibles sur le marché en terme de réalité virtuelle. Cette page sera cloturée par une conclusion.
 
-### Markdown
+
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
