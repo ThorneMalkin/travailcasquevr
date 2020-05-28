@@ -4,7 +4,7 @@
 
 Le dossier documentaire repris dans cette page Github aura pour sujet la réalité virtuelle. La réalité virtuelle est une technologie permettant une immersion visuelle totale dans un jeu vidéo, une vidéo ou simplement dans un paysage statique. La réalité virtuelle est une innovation technique majeure car elle a non seulement révolutionné le monde du jeu vidéo mais également le domaine de la médecine, dans le milieu juridique, dans le domaine de l'architecture ou encore le domaine militaire.
 Un préambule à ce dossier documentaire rassemblera quelques documents traitant de la réalité virtuelle de manière générale. 
-La première partie de ce dossier documentaire concernera l'histoire de la réalité virtuelle, la seconde partie sera dédiée au fonctionnement de celle-ci. Ensuite, dans la troisième partie sera abordé les diverses utilisations de la réalité virtuelle. Enfin, la quatrième partie sera dédiée aux effets secondaires que peuvent avoir la réalité virtuelle sur l'être humain. Cette page sera cloturée par une conclusion.
+La première partie de ce dossier documentaire concernera l'histoire de la réalité virtuelle, la seconde partie sera dédiée au fonctionnement de celle-ci. Ensuite, dans la troisième partie sera abordé les diverses utilisations de la réalité virtuelle. Enfin, la quatrième partie sera dédiée aux effets secondaires que peuvent avoir la réalité virtuelle sur l'être humain. Cette page sera cloturée par une cinquième et dernière partie traitant des différentes produits de réalité virtuelle disponibles sur le marché actuellement.
 
  ![Réalité virtuelle](https://cdn.futura-sciences.com/buildsv6/images/wide1920/c/a/c/cac14930c6_125177_realite-virtuelle-vr.jpg)
 
@@ -54,4 +54,10 @@ La première partie de ce dossier documentaire concernera l'histoire de la réal
 1. [Réalité virtuelle: les effets secondaires potentiels à moyen et long terme](https://www.androidpit.fr/realite-virtuelle-effets-secondaires-potentiels-a-moyen-et-long-terme)
 2. [Effets secondaires VR: risques et dangers d'un abus de réalité virtuelle](https://www.realite-virtuelle.com/effets-secondaires-vr/)
 3. [La nausée, le grand mal de la réalité virtuelle](https://www.lefigaro.fr/secteur/high-tech/2016/11/16/32001-20161116ARTFIG00003-la-nausee-le-grand-mal-de-la-realite-virtuelle.php)
+
+### différentes produits de réalité virtuelle disponibles sur le marché actuellement
+
+[Différents types de casques VR](https://www.lesnumeriques.com/casque-realite-virtuelle/casques-realite-virtuelle-a2305.html)
+
+[Casques de réalité virtuelle disponibles sur LDLC](https://www.ldlc.com/fr-be/informatique/peripherique-pc/casque-realite-virtuelle/c7460/)
 
