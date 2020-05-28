@@ -29,6 +29,15 @@ La première partie de ce dossier documentaire concernera l'histoire de la réal
 
 4. [L'histoire de la réalité virtuelle](https://sites.google.com/site/virtuelrealityesiameb/l-histoire-de-la-vr)
 
+### Comment fonctionne la réalité virtuelle?
+
+![Image VR](https://www.realite-virtuelle.com/wp-content/uploads/2016/06/nimble-vr-headset-750x422.jpg)
+
+1. [Comment ça marche? La réalité virtuelle](https://www.youtube.com/watch?v=GPCqcxngXz8)
+2. [Comment fonctionne la réalité virtuelle? Etrange High-Tech!](https://www.youtube.com/watch?v=8_qqAkJnepw)
+3. [Le fonctionnement des casques VR](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html)
+4. [Tout savoir sur les casques de réalité virtuelle](https://www.group-digital.fr/casque-realite-virtuelle.html)
+
 
 
 
