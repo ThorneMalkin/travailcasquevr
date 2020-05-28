@@ -4,7 +4,7 @@
 
 Le dossier documentaire repris dans cette page Github aura pour sujet la réalité virtuelle. La réalité virtuelle est une technologie permettant une immersion visuelle totale dans un jeu vidéo, une vidéo ou simplement dans un paysage statique. La réalité virtuelle est une innovation technique majeure car elle a non seulement révolutionné le monde du jeu vidéo mais également le domaine de la médecine, dans le milieu juridique, dans le domaine de l'architecture ou encore le domaine militaire.
 Un préambule à ce dossier documentaire rassemblera quelques documents traitant de la réalité virtuelle de manière générale. 
-La première partie de ce dossier documentaire concernera l'histoire de la réalité virtuelle, la seconde partie sera dédiée au fonctionnement de celle-ci. Ensuite, dans la troisième partie sera abordé les diverses utilisations de la réalité virtuelle. Enfin, la quatrième partie sera dédiée aux différents produits disponibles sur le marché en terme de réalité virtuelle. Cette page sera cloturée par une conclusion.
+La première partie de ce dossier documentaire concernera l'histoire de la réalité virtuelle, la seconde partie sera dédiée au fonctionnement de celle-ci. Ensuite, dans la troisième partie sera abordé les diverses utilisations de la réalité virtuelle. Enfin, la quatrième partie sera dédiée aux effets secondaires que peuvent avoir la réalité virtuelle sur l'être humain. Cette page sera cloturée par une conclusion.
 
  ![Réalité virtuelle](https://cdn.futura-sciences.com/buildsv6/images/wide1920/c/a/c/cac14930c6_125177_realite-virtuelle-vr.jpg)
 
@@ -49,34 +49,9 @@ La première partie de ce dossier documentaire concernera l'histoire de la réal
 4. [La réalité augmentée et ses applications](https://www.futura-sciences.com/tech/dossiers/technologie-realite-augmentee-applications-977/)
 
 
+### Les effets secondaires
 
+1. [Réalité virtuelle: les effets secondaires potentiels à moyen et long terme](https://www.androidpit.fr/realite-virtuelle-effets-secondaires-potentiels-a-moyen-et-long-terme)
+2. [Effets secondaires VR: risques et dangers d'un abus de réalité virtuelle](https://www.realite-virtuelle.com/effets-secondaires-vr/)
+3. [La nausée, le grand mal de la réalité virtuelle](https://www.lefigaro.fr/secteur/high-tech/2016/11/16/32001-20161116ARTFIG00003-la-nausee-le-grand-mal-de-la-realite-virtuelle.php)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ThorneMalkin/travailcasquevr/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
