@@ -9,9 +9,27 @@ La première partie de ce dossier documentaire concernera l'histoire de la réal
  ![Réalité virtuelle](https://cdn.futura-sciences.com/buildsv6/images/wide1920/c/a/c/cac14930c6_125177_realite-virtuelle-vr.jpg)
 
 ### Préambule
-[Que sais-je? La réalité virtuelle par bernard Jolivalt](https://books.google.be/books?hl=fr&lr=&id=iXaJDwAAQBAJ&oi=fnd&pg=PT2&dq=casque+r%C3%A9alt%C3%A9+virtuelle&ots=7nmD83Wqxt&sig=4Eo852k3TEimLObG5lD2ntY08Co&redir_esc=y#v=onepage&q=casque%20r%C3%A9alt%C3%A9%20virtuelle&f=false)
 
-[Les casques de réalité virtuelle et de jeux vidéo par Philippe Fuchs](https://www.pressesdesmines.com/wp-content/uploads/2016/03/Visio_Extr.pdf)
+
+1. [Que sais-je? La réalité virtuelle par bernard Jolivalt](https://books.google.be/books?hl=fr&lr=&id=iXaJDwAAQBAJ&oi=fnd&pg=PT2&dq=casque+r%C3%A9alt%C3%A9+virtuelle&ots=7nmD83Wqxt&sig=4Eo852k3TEimLObG5lD2ntY08Co&redir_esc=y#v=onepage&q=casque%20r%C3%A9alt%C3%A9%20virtuelle&f=false)
+
+2. [Les casques de réalité virtuelle et de jeux vidéo par Philippe Fuchs](https://www.pressesdesmines.com/wp-content/uploads/2016/03/Visio_Extr.pdf)
+
+3. [Réalité virtuelle](https://www.futura-sciences.com/tech/definitions/technologie-realite-virtuelle-598/)
+
+### L'histoire de la réalité virtuelle
+
+![premier casque VR](https://www.realite-virtuelle.com/wp-content/uploads/2017/11/histoire-de-la-vr-660x330.jpg)
+
+1. [Réalité virtuelle: définition concrète et histoire](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1445232-realite-virtuelle-definition-concrete-et-histoire/)
+
+2. [L'histoire de la VR en 7 étapes](https://www.realite-virtuelle.com/histoire-vr-7-etapes-1511/)
+
+3. [L'histoire de la réalité virtuelle](https://www.realite-virtuelle.com/lhistoire-realite-virtuelle/)
+
+4. [L'histoire de la réalité virtuelle](https://sites.google.com/site/virtuelrealityesiameb/l-histoire-de-la-vr)
+
+
 
 
 
