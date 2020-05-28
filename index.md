@@ -38,6 +38,15 @@ La première partie de ce dossier documentaire concernera l'histoire de la réal
 3. [Le fonctionnement des casques VR](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html)
 4. [Tout savoir sur les casques de réalité virtuelle](https://www.group-digital.fr/casque-realite-virtuelle.html)
 
+### Les diverses utilisations de la réalité virtuelle
+
+1. [Aujourd'hui et demain: quels domaines d'application pour la réalité virtuelle?](https://www.wanadev.fr/73-aujourd-hui-et-demain-quels-domaines-d-application-pour-la-realite-virtuelle/)
+
+2. [Les autres utilisations de la VR](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/3-les-autres-utilisations-de-la-vr.html)
+
+3. [Réalité virtuelle: les domaines d'application](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/3-les-autres-utilisations-de-la-vr.html)
+
+4. [La réalité augmentée et ses applications](https://www.futura-sciences.com/tech/dossiers/technologie-realite-augmentee-applications-977/)
 
 
 
