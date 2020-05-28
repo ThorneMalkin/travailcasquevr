@@ -9,7 +9,7 @@ La première partie de ce dossier documentaire concernera l'histoire de la réal
  ![Réalité virtuelle](https://cdn.futura-sciences.com/buildsv6/images/wide1920/c/a/c/cac14930c6_125177_realite-virtuelle-vr.jpg)
 
 ### Préambule
-[Que sais-je? La réalité virtuelle par bernard Jolivalt](https://books.google.be/books?hl=fr&lr=&id=iXaJDwAAQBAJ&oi=fnd&pg=PT2&dq=casque+r%C3%A9alt%C3%A9+virtuelle&ots=7nmD83Wqxt&sig=4Eo852k3TEimLObG5lD2ntY08Co&redir_esc=y#v=onepage&q=casque%20r%C3%A9alt%C3%A9%20virtuelle&f=false(
+[Que sais-je? La réalité virtuelle par bernard Jolivalt](https://books.google.be/books?hl=fr&lr=&id=iXaJDwAAQBAJ&oi=fnd&pg=PT2&dq=casque+r%C3%A9alt%C3%A9+virtuelle&ots=7nmD83Wqxt&sig=4Eo852k3TEimLObG5lD2ntY08Co&redir_esc=y#v=onepage&q=casque%20r%C3%A9alt%C3%A9%20virtuelle&f=false)
 
 [Les casques de réalité virtuelle et de jeux vidéo par Philippe Fuchs](https://www.pressesdesmines.com/wp-content/uploads/2016/03/Visio_Extr.pdf)
 
