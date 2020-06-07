@@ -10,12 +10,13 @@ La première partie de ce dossier documentaire concernera l'histoire de la réal
 
 ### Préambule
 
+1. [Introduction générale](https://www.futura-sciences.com/tech/definitions/technologie-realite-virtuelle-598/)
+![Introduction](
 
-1. [Que sais-je? La réalité virtuelle par bernard Jolivalt](https://books.google.be/books?hl=fr&lr=&id=iXaJDwAAQBAJ&oi=fnd&pg=PT2&dq=casque+r%C3%A9alt%C3%A9+virtuelle&ots=7nmD83Wqxt&sig=4Eo852k3TEimLObG5lD2ntY08Co&redir_esc=y#v=onepage&q=casque%20r%C3%A9alt%C3%A9%20virtuelle&f=false)
+2. [Que sais-je? La réalité virtuelle par bernard Jolivalt](https://books.google.be/books?hl=fr&lr=&id=iXaJDwAAQBAJ&oi=fnd&pg=PT2&dq=casque+r%C3%A9alt%C3%A9+virtuelle&ots=7nmD83Wqxt&sig=4Eo852k3TEimLObG5lD2ntY08Co&redir_esc=y#v=onepage&q=casque%20r%C3%A9alt%C3%A9%20virtuelle&f=false)
 
-2. [Les casques de réalité virtuelle et de jeux vidéo par Philippe Fuchs](https://www.pressesdesmines.com/wp-content/uploads/2016/03/Visio_Extr.pdf)
+3. [Les casques de réalité virtuelle et de jeux vidéo par Philippe Fuchs](https://www.pressesdesmines.com/wp-content/uploads/2016/03/Visio_Extr.pdf)
 
-3. [Réalité virtuelle](https://www.futura-sciences.com/tech/definitions/technologie-realite-virtuelle-598/)
 
 ### L'histoire de la réalité virtuelle
 
