@@ -8,7 +8,8 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
  ![Réalité virtuelle](https://cdn.futura-sciences.com/buildsv6/images/wide1920/c/a/c/cac14930c6_125177_realite-virtuelle-vr.jpg)
 
-
+1. [Introduction générale](https://www.futura-sciences.com/tech/definitions/technologie-realite-virtuelle-598/)
+![préambule](https://user-images.githubusercontent.com/62696096/84038191-e8de5300-a99f-11ea-8bd7-6fa6169d36cd.JPG)
 
 
 ### L'histoire de la réalité virtuelle
@@ -57,8 +58,6 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 ### Conclusion
 
-1. [Introduction générale](https://www.futura-sciences.com/tech/definitions/technologie-realite-virtuelle-598/)
-![préambule](https://user-images.githubusercontent.com/62696096/84038191-e8de5300-a99f-11ea-8bd7-6fa6169d36cd.JPG)
 
 2. [Ouvrage complet sur la réalité de Bernard Jolivalt](https://books.google.be/books?hl=fr&lr=&id=iXaJDwAAQBAJ&oi=fnd&pg=PT2&dq=casque+r%C3%A9alt%C3%A9+virtuelle&ots=7nmD83Wqxt&sig=4Eo852k3TEimLObG5lD2ntY08Co&redir_esc=y#v=onepage&q=casque%20r%C3%A9alt%C3%A9%20virtuelle&f=false)
 
