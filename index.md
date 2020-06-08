@@ -8,7 +8,7 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
  ![Réalité virtuelle](https://cdn.futura-sciences.com/buildsv6/images/wide1920/c/a/c/cac14930c6_125177_realite-virtuelle-vr.jpg)
 
-1. [Introduction générale](https://www.futura-sciences.com/tech/definitions/technologie-realite-virtuelle-598/)
+ [Introduction générale](https://www.futura-sciences.com/tech/definitions/technologie-realite-virtuelle-598/)
 ![préambule](https://user-images.githubusercontent.com/62696096/84038191-e8de5300-a99f-11ea-8bd7-6fa6169d36cd.JPG)
 
 
@@ -17,12 +17,27 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 ![premier casque VR](https://www.realite-virtuelle.com/wp-content/uploads/2017/11/histoire-de-la-vr-660x330.jpg)
 
 1. [Réalité virtuelle: définition concrète et histoire](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1445232-realite-virtuelle-definition-concrete-et-histoire/)
-
-2. [L'histoire de la VR en 7 étapes](https://www.realite-virtuelle.com/histoire-vr-7-etapes-1511/)
-
-3. [L'histoire de la réalité virtuelle](https://www.realite-virtuelle.com/lhistoire-realite-virtuelle/)
+![1](https://user-images.githubusercontent.com/62696096/84071722-7c2e7d00-a9ce-11ea-95a5-65b4edec4271.JPG)
 
 4. [L'histoire de la réalité virtuelle](https://sites.google.com/site/virtuelrealityesiameb/l-histoire-de-la-vr)
+
+![2](https://user-images.githubusercontent.com/62696096/84072151-04148700-a9cf-11ea-9bfa-0b83ffe2f18d.JPG)
+
+https://www.v-cult.com/blog/histoire-de-la-realite-virtuelle/
+
+![3](https://user-images.githubusercontent.com/62696096/84072875-2c50b580-a9d0-11ea-89c2-602bdadfd2eb.JPG)
+![4](https://user-images.githubusercontent.com/62696096/84072934-3f638580-a9d0-11ea-9d72-3beda9658b54.JPG)
+![5](https://user-images.githubusercontent.com/62696096/84072952-48eced80-a9d0-11ea-9542-56aa5996fbd8.JPG)
+![6](https://user-images.githubusercontent.com/62696096/84072982-51ddbf00-a9d0-11ea-9884-36a475fc615b.JPG)
+![7](https://user-images.githubusercontent.com/62696096/84073011-5904cd00-a9d0-11ea-8000-a1083282abf2.JPG)
+![14](https://user-images.githubusercontent.com/62696096/84073031-615d0800-a9d0-11ea-9aa4-48f004a703cc.JPG)
+![8](https://user-images.githubusercontent.com/62696096/84073033-61f59e80-a9d0-11ea-97e2-7d37bd9424ae.JPG)
+![9](https://user-images.githubusercontent.com/62696096/84073034-628e3500-a9d0-11ea-9972-612987b71540.JPG)
+![10](https://user-images.githubusercontent.com/62696096/84073037-628e3500-a9d0-11ea-9ad3-3dd09c5483f0.JPG)
+![11](https://user-images.githubusercontent.com/62696096/84073039-6326cb80-a9d0-11ea-996f-19de5c4b731d.JPG)
+![12](https://user-images.githubusercontent.com/62696096/84073040-6326cb80-a9d0-11ea-89fe-c3a7e1a3b9c5.JPG)
+![13](https://user-images.githubusercontent.com/62696096/84073042-6326cb80-a9d0-11ea-9aae-0c6fa2938dc5.JPG)
+
 
 ### Comment fonctionne la réalité virtuelle?
 
