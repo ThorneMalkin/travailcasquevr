@@ -47,6 +47,8 @@ https://www.v-cult.com/blog/histoire-de-la-realite-virtuelle/
 2. [Comment fonctionne la réalité virtuelle? Etrange High-Tech!](https://www.youtube.com/watch?v=8_qqAkJnepw)
 3. [Le fonctionnement des casques VR](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html)
 4. [Tout savoir sur les casques de réalité virtuelle](https://www.group-digital.fr/casque-realite-virtuelle.html)
+![CMCM](https://user-images.githubusercontent.com/62696096/84074080-44293900-a9d2-11ea-9efe-cbbcb4e95dc6.JPG)
+
 
 ### Les diverses utilisations de la réalité virtuelle
 
