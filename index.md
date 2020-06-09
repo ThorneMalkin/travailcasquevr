@@ -32,13 +32,13 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 ![5](https://user-images.githubusercontent.com/62696096/84072952-48eced80-a9d0-11ea-9542-56aa5996fbd8.JPG)
 ![6](https://user-images.githubusercontent.com/62696096/84072982-51ddbf00-a9d0-11ea-9884-36a475fc615b.JPG)
 ![7](https://user-images.githubusercontent.com/62696096/84073011-5904cd00-a9d0-11ea-8000-a1083282abf2.JPG)
-![14](https://user-images.githubusercontent.com/62696096/84073031-615d0800-a9d0-11ea-9aa4-48f004a703cc.JPG)
 ![8](https://user-images.githubusercontent.com/62696096/84073033-61f59e80-a9d0-11ea-97e2-7d37bd9424ae.JPG)
 ![9](https://user-images.githubusercontent.com/62696096/84073034-628e3500-a9d0-11ea-9972-612987b71540.JPG)
 ![10](https://user-images.githubusercontent.com/62696096/84073037-628e3500-a9d0-11ea-9ad3-3dd09c5483f0.JPG)
 ![11](https://user-images.githubusercontent.com/62696096/84073039-6326cb80-a9d0-11ea-996f-19de5c4b731d.JPG)
 ![12](https://user-images.githubusercontent.com/62696096/84073040-6326cb80-a9d0-11ea-89fe-c3a7e1a3b9c5.JPG)
 ![13](https://user-images.githubusercontent.com/62696096/84073042-6326cb80-a9d0-11ea-9aae-0c6fa2938dc5.JPG)
+![14](https://user-images.githubusercontent.com/62696096/84073031-615d0800-a9d0-11ea-9aa4-48f004a703cc.JPG)
 
 
 ### Comment fonctionne la réalité virtuelle?
