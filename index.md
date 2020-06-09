@@ -52,7 +52,7 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 ![21](https://user-images.githubusercontent.com/62696096/84161939-1d214480-aa70-11ea-8b80-5c5dbd75ff5e.JPG)
 
-
+![20](https://user-images.githubusercontent.com/62696096/84161980-29a59d00-aa70-11ea-8325-7b421108a4f7.JPG)
 
 3. [CYRIX, Thomas. Comment fonctionne la réalité virtuelle? Etrange High-Tech![en ligne] 14 septembre 2018. [consulté le 23 mai 2020]. Disponible sur le web:<https://www.youtube.com/watch?v=8_qqAkJnepw>](https://www.youtube.com/watch?v=8_qqAkJnepw)
 
