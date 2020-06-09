@@ -44,14 +44,15 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 ![Image VR](https://www.realite-virtuelle.com/wp-content/uploads/2016/06/nimble-vr-headset-750x422.jpg)
 
-1. [Tout savoir sur les casques de réalité virtuelle.[en ligne].[consulté le 15 mai 2020]. Disponible sur le web:<https://www.group-digital.fr/casque-realite-virtuelle.html>](https://www.group-digital.fr/casque-realite-virtuelle.html)
+1. [GROUP DIGITAL. Tout savoir sur les casques de réalité virtuelle.[en ligne].[consulté le 15 mai 2020]. Disponible sur le web:<https://www.group-digital.fr/casque-realite-virtuelle.html>](https://www.group-digital.fr/casque-realite-virtuelle.html)
 
-2. [Comment ça marche? La réalité virtuelle](https://www.youtube.com/watch?v=GPCqcxngXz8)
+2. [CEA RECHERCHE. Comment ça marche? La réalité virtuelle [en ligne] 21 décembre 2017 [consulté le 21 mai 2020] disponible sur le Web:<https://www.youtube.com/watch?v=GPCqcxngXz8>](https://www.youtube.com/watch?v=GPCqcxngXz8)
 
-![CMCM](https://user-images.githubusercontent.com/62696096/84074080-44293900-a9d2-11ea-9efe-cbbcb4e95dc6.JPG)
 ![21](https://user-images.githubusercontent.com/62696096/84161939-1d214480-aa70-11ea-8b80-5c5dbd75ff5e.JPG)
+![CMCM](https://user-images.githubusercontent.com/62696096/84074080-44293900-a9d2-11ea-9efe-cbbcb4e95dc6.JPG)
 
-3. [Comment fonctionne la réalité virtuelle? Etrange High-Tech!](https://www.youtube.com/watch?v=8_qqAkJnepw)
+
+3. [CYRIX, Thomas. Comment fonctionne la réalité virtuelle? Etrange High-Tech![en ligne] 14 septembre 2018. [consulté le 23 mai 2020]. Disponible sur le web:<https://www.youtube.com/watch?v=8_qqAkJnepw>](https://www.youtube.com/watch?v=8_qqAkJnepw)
 
 ![20](https://user-images.githubusercontent.com/62696096/84161980-29a59d00-aa70-11ea-8325-7b421108a4f7.JPG)
 
@@ -66,7 +67,7 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 ### Les diverses utilisations de la réalité virtuelle
 
-1. [Aujourd'hui et demain: quels domaines d'application pour la réalité virtuelle?](https://www.wanadev.fr/73-aujourd-hui-et-demain-quels-domaines-d-application-pour-la-realite-virtuelle/)
+1. [FRANCOIS. Aujourd'hui et demain: quels domaines d'application pour la réalité virtuelle?[en ligne] consulté le 23 mai 2020]. Disponible sur le web :<https://www.wanadev.fr/73-aujourd-hui-et-demain-quels-domaines-d-application-pour-la-realite-virtuelle/>](https://www.wanadev.fr/73-aujourd-hui-et-demain-quels-domaines-d-application-pour-la-realite-virtuelle/)
 
 ![22](https://user-images.githubusercontent.com/62696096/84162444-ad5f8980-aa70-11ea-8357-f0950781a4ab.JPG)
 ![27](https://user-images.githubusercontent.com/62696096/84162964-4393af80-aa71-11ea-9721-b974b2b83561.JPG)
