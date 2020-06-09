@@ -55,7 +55,7 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 ![20](https://user-images.githubusercontent.com/62696096/84161980-29a59d00-aa70-11ea-8325-7b421108a4f7.JPG)
 
-4. [2-Le fonctionnement des casques VR.[en ligne].[consulté le 30 avril 2020]. Disponible sur le Web :<http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html>](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html)
+4. [JONOT Fiona. BOUSCAILLOUX Marie-Amélie,2-Le fonctionnement des casques VR.[en ligne].[consulté le 30 avril 2020]. Disponible sur le Web :<http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html>](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html)
 ![cxc](https://user-images.githubusercontent.com/62696096/84159554-7c318a00-aa6d-11ea-99a2-9201f798a39e.JPG)
 ![19](https://user-images.githubusercontent.com/62696096/84159613-8e132d00-aa6d-11ea-8f83-6807646f6437.JPG)
 ![16](https://user-images.githubusercontent.com/62696096/84159616-8eabc380-aa6d-11ea-8617-9d65aa5b8b27.JPG)
