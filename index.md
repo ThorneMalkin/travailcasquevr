@@ -50,13 +50,12 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 2. [CEA RECHERCHE. Comment ça marche? La réalité virtuelle [en ligne] 21 décembre 2017 [consulté le 21 mai 2020] disponible sur le Web:<https://www.youtube.com/watch?v=GPCqcxngXz8>](https://www.youtube.com/watch?v=GPCqcxngXz8)
 
-![21](https://user-images.githubusercontent.com/62696096/84161939-1d214480-aa70-11ea-8b80-5c5dbd75ff5e.JPG)
 
 ![20](https://user-images.githubusercontent.com/62696096/84161980-29a59d00-aa70-11ea-8325-7b421108a4f7.JPG)
 
 3. [CYRIX, Thomas. Comment fonctionne la réalité virtuelle? Etrange High-Tech![en ligne] 14 septembre 2018. [consulté le 23 mai 2020]. Disponible sur le web:<https://www.youtube.com/watch?v=8_qqAkJnepw>](https://www.youtube.com/watch?v=8_qqAkJnepw)
 
-![20](https://user-images.githubusercontent.com/62696096/84161980-29a59d00-aa70-11ea-8325-7b421108a4f7.JPG)
+![21](https://user-images.githubusercontent.com/62696096/84161939-1d214480-aa70-11ea-8b80-5c5dbd75ff5e.JPG)
 
 4. [JONOT Fiona. BOUSCAILLOUX Marie-Amélie. 2-Le fonctionnement des casques VR.[en ligne].[consulté le 30 avril 2020]. Disponible sur le Web :<http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html>](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html)
 ![cxc](https://user-images.githubusercontent.com/62696096/84159554-7c318a00-aa6d-11ea-99a2-9201f798a39e.JPG)
