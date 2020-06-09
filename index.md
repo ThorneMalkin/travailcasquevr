@@ -8,7 +8,8 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
  ![Réalité virtuelle](https://cdn.futura-sciences.com/buildsv6/images/wide1920/c/a/c/cac14930c6_125177_realite-virtuelle-vr.jpg)
 ## Préambule
- [LA REDACTION DE FUTURA. Tech-La réalité virtuelle [en ligne]. [consulté le 09 mai 2020]. Disponible sur le web:<https://www.futura-sciences.com/tech/definitions/technologie-realite-virtuelle-598/>](https://www.futura-sciences.com/tech/definitions/technologie-realite-virtuelle-598/)
+ [LA REDACTION DE FUTURA. Tech-La réalité virtuelle [en ligne]. [consulté le 09 mai 2020]. Disponible sur le web:<https://www.futura-sciences.com/tech/definitions/technologie-realite-virtuelle-598/>]
+ 
 ![préambule](https://user-images.githubusercontent.com/62696096/84038191-e8de5300-a99f-11ea-8bd7-6fa6169d36cd.JPG)
 
 
@@ -16,15 +17,15 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 ![premier casque VR](https://www.realite-virtuelle.com/wp-content/uploads/2017/11/histoire-de-la-vr-660x330.jpg)
 
-1. [LA REDACTION JDN. Réalité virtuelle : définition concrète et histoire [en ligne]. mis à jour le le 16/09/19 [consulté le 11 mai 2020]. Disponible sur le Web :<https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1445232-realite-virtuelle-definition-concrete-et-histoire/>](https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1445232-realite-virtuelle-definition-concrete-et-histoire/)
+1. [LA REDACTION JDN. Réalité virtuelle : définition concrète et histoire [en ligne]. mis à jour le le 16/09/19 [consulté le 11 mai 2020]. Disponible sur le Web :<https://www.journaldunet.fr/web-tech/dictionnaire-du-webmastering/1445232-realite-virtuelle-definition-concrete-et-histoire/>]
 
 ![1](https://user-images.githubusercontent.com/62696096/84071722-7c2e7d00-a9ce-11ea-95a5-65b4edec4271.JPG)
 
-2. [GOOGLE SITES, L'histoire de la réalité virtuel.[en ligne]. [consulté le 11 mai 2020]. Disponible sur le Web :<https://sites.google.com/site/virtuelrealityesiameb/l-histoire-de-la-vr>](https://sites.google.com/site/virtuelrealityesiameb/l-histoire-de-la-vr)
+2. [GOOGLE SITES, L'histoire de la réalité virtuel.[en ligne]. [consulté le 11 mai 2020]. Disponible sur le Web :<https://sites.google.com/site/virtuelrealityesiameb/l-histoire-de-la-vr>]
 
 ![2](https://user-images.githubusercontent.com/62696096/84072151-04148700-a9cf-11ea-9bfa-0b83ffe2f18d.JPG)
 
-3.[LUCAS. L'histoire de la réalité virtuelle. [en ligne]. date de publication 1 décembre 2017 [consulté le 15 mai 2020]. Disponible sur le Web:<https://www.v-cult.com/blog/histoire-de-la-realite-virtuelle/>](https://www.v-cult.com/blog/histoire-de-la-realite-virtuelle/)
+3.[LUCAS. L'histoire de la réalité virtuelle. [en ligne]. date de publication 1 décembre 2017 [consulté le 15 mai 2020]. Disponible sur le Web:<https://www.v-cult.com/blog/histoire-de-la-realite-virtuelle/>]
 
 ![3](https://user-images.githubusercontent.com/62696096/84072875-2c50b580-a9d0-11ea-89c2-602bdadfd2eb.JPG)
 ![4](https://user-images.githubusercontent.com/62696096/84072934-3f638580-a9d0-11ea-9d72-3beda9658b54.JPG)
@@ -44,20 +45,20 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 ![Image VR](https://www.realite-virtuelle.com/wp-content/uploads/2016/06/nimble-vr-headset-750x422.jpg)
 
-1. [GROUP DIGITAL. Tout savoir sur les casques de réalité virtuelle.[en ligne].[consulté le 15 mai 2020]. Disponible sur le web:<https://www.group-digital.fr/casque-realite-virtuelle.html>](https://www.group-digital.fr/casque-realite-virtuelle.html)
+1. [GROUP DIGITAL. Tout savoir sur les casques de réalité virtuelle.[en ligne].[consulté le 15 mai 2020]. Disponible sur le web:<https://www.group-digital.fr/casque-realite-virtuelle.html>]
 
 ![CMCM](https://user-images.githubusercontent.com/62696096/84074080-44293900-a9d2-11ea-9efe-cbbcb4e95dc6.JPG)
 
-2. [CEA RECHERCHE. Comment ça marche? La réalité virtuelle [en ligne] 21 décembre 2017 [consulté le 21 mai 2020] disponible sur le Web:<https://www.youtube.com/watch?v=GPCqcxngXz8>](https://www.youtube.com/watch?v=GPCqcxngXz8)
+2. [CEA RECHERCHE. Comment ça marche? La réalité virtuelle [en ligne] 21 décembre 2017 [consulté le 21 mai 2020] disponible sur le Web:<https://www.youtube.com/watch?v=GPCqcxngXz8>]
 
 
 ![20](https://user-images.githubusercontent.com/62696096/84161980-29a59d00-aa70-11ea-8325-7b421108a4f7.JPG)
 
-3. [CYRIX, Thomas. Comment fonctionne la réalité virtuelle? Etrange High-Tech![en ligne] 14 septembre 2018. [consulté le 23 mai 2020]. Disponible sur le web:<https://www.youtube.com/watch?v=8_qqAkJnepw>](https://www.youtube.com/watch?v=8_qqAkJnepw)
+3. [CYRIX, Thomas. Comment fonctionne la réalité virtuelle? Etrange High-Tech![en ligne] 14 septembre 2018. [consulté le 23 mai 2020]. Disponible sur le web:<https://www.youtube.com/watch?v=8_qqAkJnepw>]
 
 ![21](https://user-images.githubusercontent.com/62696096/84161939-1d214480-aa70-11ea-8b80-5c5dbd75ff5e.JPG)
 
-4. [JONOT Fiona. BOUSCAILLOUX Marie-Amélie. 2-Le fonctionnement des casques VR.[en ligne].[consulté le 30 avril 2020]. Disponible sur le Web :<http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html>](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html)
+4. [JONOT Fiona. BOUSCAILLOUX Marie-Amélie. 2-Le fonctionnement des casques VR.[en ligne].[consulté le 30 avril 2020]. Disponible sur le Web :<http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html>]
 ![cxc](https://user-images.githubusercontent.com/62696096/84159554-7c318a00-aa6d-11ea-99a2-9201f798a39e.JPG)
 ![19](https://user-images.githubusercontent.com/62696096/84159613-8e132d00-aa6d-11ea-8f83-6807646f6437.JPG)
 ![16](https://user-images.githubusercontent.com/62696096/84159616-8eabc380-aa6d-11ea-8617-9d65aa5b8b27.JPG)
@@ -68,13 +69,13 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 ### Les diverses utilisations de la réalité virtuelle
 
-1. [FRANCOIS. Aujourd'hui et demain: quels domaines d'application pour la réalité virtuelle?[en ligne] consulté le 23 mai 2020]. Disponible sur le web :<https://www.wanadev.fr/73-aujourd-hui-et-demain-quels-domaines-d-application-pour-la-realite-virtuelle/>](https://www.wanadev.fr/73-aujourd-hui-et-demain-quels-domaines-d-application-pour-la-realite-virtuelle/)
+1. [FRANCOIS. Aujourd'hui et demain: quels domaines d'application pour la réalité virtuelle?[en ligne] consulté le 23 mai 2020]. Disponible sur le web :<https://www.wanadev.fr/73-aujourd-hui-et-demain-quels-domaines-d-application-pour-la-realite-virtuelle/>]
 
 ![22](https://user-images.githubusercontent.com/62696096/84162444-ad5f8980-aa70-11ea-8357-f0950781a4ab.JPG)
 ![27](https://user-images.githubusercontent.com/62696096/84162964-4393af80-aa71-11ea-9721-b974b2b83561.JPG)
 ![28](https://user-images.githubusercontent.com/62696096/84162967-4393af80-aa71-11ea-89d4-aa5a52eef9c6.JPG)
 
-2. [JONOT Fiona. BOUSCAILLOUX Marie-Amélie. 3-Les autres utilisations de la VR [en ligne].[consulté le 20 mai 2020]. Disponible sur le web:<http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/3-les-autres-utilisations-de-la-vr.html>(http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/3-les-autres-utilisations-de-la-vr.html)
+2. [JONOT Fiona. BOUSCAILLOUX Marie-Amélie. 3-Les autres utilisations de la VR [en ligne].[consulté le 20 mai 2020]. Disponible sur le web:<http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/3-les-autres-utilisations-de-la-vr.html>
 
 ![23](https://user-images.githubusercontent.com/62696096/84163084-6756f580-aa71-11ea-8b08-f2885e171671.JPG)
 ![24](https://user-images.githubusercontent.com/62696096/84163089-67ef8c00-aa71-11ea-9cce-5795a2885f83.JPG)
@@ -85,7 +86,7 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 ### Les effets secondaires
 
-1. [L. Bastien. Effets secondaires VR: risques et dangers d'un abus de réalité virtuelle[en ligne] 07 mars 2018.[consulté le 19 mai 2020]. Disponible sur le web:<https://www.realite-virtuelle.com/effets-secondaires-vr/>](https://www.realite-virtuelle.com/effets-secondaires-vr/)
+1. [L. Bastien. Effets secondaires VR: risques et dangers d'un abus de réalité virtuelle[en ligne] 07 mars 2018.[consulté le 19 mai 2020]. Disponible sur le web:<https://www.realite-virtuelle.com/effets-secondaires-vr/>]
 
 ![29](https://user-images.githubusercontent.com/62696096/84163984-5490f080-aa72-11ea-9796-ef501c064931.JPG)
 ![33](https://user-images.githubusercontent.com/62696096/84163992-565ab400-aa72-11ea-8120-faaf4cbaef9e.JPG)
@@ -93,17 +94,17 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 ![31](https://user-images.githubusercontent.com/62696096/84163994-565ab400-aa72-11ea-852d-f8238c488df8.JPG)
 ![32](https://user-images.githubusercontent.com/62696096/84163996-56f34a80-aa72-11ea-8cf2-4950d01a2314.JPG)
 
-2. [RONFAUT, Lucie. La nausée, le grand mal de la réalité virtuelle[en ligne] 16 novembre 2016.[consulté le 10 mai 2020]. Disponible sur le Web:<https://www.lefigaro.fr/secteur/high-tech/2016/11/16/32001-20161116ARTFIG00003-la-nausee-le-grand-mal-de-la-realite-virtuelle.php>](https://www.lefigaro.fr/secteur/high-tech/2016/11/16/32001-20161116ARTFIG00003-la-nausee-le-grand-mal-de-la-realite-virtuelle.php)
+2. [RONFAUT, Lucie. La nausée, le grand mal de la réalité virtuelle[en ligne] 16 novembre 2016.[consulté le 10 mai 2020]. Disponible sur le Web:<https://www.lefigaro.fr/secteur/high-tech/2016/11/16/32001-20161116ARTFIG00003-la-nausee-le-grand-mal-de-la-realite-virtuelle.php>]
 
 ![34](https://user-images.githubusercontent.com/62696096/84164345-b2bdd380-aa72-11ea-8efb-755a1d931ce7.JPG)
 
 ### différents produits de réalité virtuelle disponibles sur le marché actuellement et critères de sélection à l'achat
 
-[PIONNEAU, Fabien. Différents types de casques VR[en ligne] Mis à jour le 26 mars 2020.[consulté le 3 mai 2020]. Disponible sur le Web:<https://www.lesnumeriques.com/casque-realite-virtuelle/casques-realite-virtuelle-a2305.html>](https://www.lesnumeriques.com/casque-realite-virtuelle/casques-realite-virtuelle-a2305.html)
+[PIONNEAU, Fabien. Différents types de casques VR[en ligne] Mis à jour le 26 mars 2020.[consulté le 3 mai 2020]. Disponible sur le Web:<https://www.lesnumeriques.com/casque-realite-virtuelle/casques-realite-virtuelle-a2305.html>]
 
 ![35](https://user-images.githubusercontent.com/62696096/84164707-252eb380-aa73-11ea-90f7-997bc60282d9.JPG)
 
-[GrOUPE LDLC. Casques de réalité virtuelle disponibles sur LDLC[en ligne].[consulté le 5 juin 2020]. Disponible sur le Web:<https://www.ldlc.com/fr-be/informatique/peripherique-pc/casque-realite-virtuelle/c7460/>](https://www.ldlc.com/fr-be/informatique/peripherique-pc/casque-realite-virtuelle/c7460/)
+[GrOUPE LDLC. Casques de réalité virtuelle disponibles sur LDLC[en ligne].[consulté le 5 juin 2020]. Disponible sur le Web:<https://www.ldlc.com/fr-be/informatique/peripherique-pc/casque-realite-virtuelle/c7460/>]
 
 
 ![36](https://user-images.githubusercontent.com/62696096/84165047-7d65b580-aa73-11ea-957e-7776355ebb4d.JPG)
