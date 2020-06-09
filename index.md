@@ -79,15 +79,26 @@ https://www.v-cult.com/blog/histoire-de-la-realite-virtuelle/
 
 ### Les effets secondaires
 
-1. [Réalité virtuelle: les effets secondaires potentiels à moyen et long terme](https://www.androidpit.fr/realite-virtuelle-effets-secondaires-potentiels-a-moyen-et-long-terme)
-2. [Effets secondaires VR: risques et dangers d'un abus de réalité virtuelle](https://www.realite-virtuelle.com/effets-secondaires-vr/)
-3. [La nausée, le grand mal de la réalité virtuelle](https://www.lefigaro.fr/secteur/high-tech/2016/11/16/32001-20161116ARTFIG00003-la-nausee-le-grand-mal-de-la-realite-virtuelle.php)
+1. [Effets secondaires VR: risques et dangers d'un abus de réalité virtuelle](https://www.realite-virtuelle.com/effets-secondaires-vr/)
+![29](https://user-images.githubusercontent.com/62696096/84163984-5490f080-aa72-11ea-9796-ef501c064931.JPG)
+![33](https://user-images.githubusercontent.com/62696096/84163992-565ab400-aa72-11ea-8120-faaf4cbaef9e.JPG)
+![30](https://user-images.githubusercontent.com/62696096/84163993-565ab400-aa72-11ea-88ce-2113bbd80209.JPG)
+![31](https://user-images.githubusercontent.com/62696096/84163994-565ab400-aa72-11ea-852d-f8238c488df8.JPG)
+![32](https://user-images.githubusercontent.com/62696096/84163996-56f34a80-aa72-11ea-8cf2-4950d01a2314.JPG)
+2. [La nausée, le grand mal de la réalité virtuelle](https://www.lefigaro.fr/secteur/high-tech/2016/11/16/32001-20161116ARTFIG00003-la-nausee-le-grand-mal-de-la-realite-virtuelle.php)
 
-### différentes produits de réalité virtuelle disponibles sur le marché actuellement
+![34](https://user-images.githubusercontent.com/62696096/84164345-b2bdd380-aa72-11ea-8efb-755a1d931ce7.JPG)
+
+### différents produits de réalité virtuelle disponibles sur le marché actuellement et critères de sélection à l'achat
 
 [Différents types de casques VR](https://www.lesnumeriques.com/casque-realite-virtuelle/casques-realite-virtuelle-a2305.html)
 
+![35](https://user-images.githubusercontent.com/62696096/84164707-252eb380-aa73-11ea-90f7-997bc60282d9.JPG)
+
 [Casques de réalité virtuelle disponibles sur LDLC](https://www.ldlc.com/fr-be/informatique/peripherique-pc/casque-realite-virtuelle/c7460/)
+
+
+![36](https://user-images.githubusercontent.com/62696096/84165047-7d65b580-aa73-11ea-957e-7776355ebb4d.JPG)
 
 ### Conclusion
 
