@@ -43,10 +43,20 @@ https://www.v-cult.com/blog/histoire-de-la-realite-virtuelle/
 
 ![Image VR](https://www.realite-virtuelle.com/wp-content/uploads/2016/06/nimble-vr-headset-750x422.jpg)
 
-1. [Comment ça marche? La réalité virtuelle](https://www.youtube.com/watch?v=GPCqcxngXz8)
-2. [Comment fonctionne la réalité virtuelle? Etrange High-Tech!](https://www.youtube.com/watch?v=8_qqAkJnepw)
-3. [Le fonctionnement des casques VR](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html)
-4. [Tout savoir sur les casques de réalité virtuelle](https://www.group-digital.fr/casque-realite-virtuelle.html)
+1. [Tout savoir sur les casques de réalité virtuelle](https://www.group-digital.fr/casque-realite-virtuelle.html)
+
+2. [Comment ça marche? La réalité virtuelle](https://www.youtube.com/watch?v=GPCqcxngXz8)
+![CMCM](https://user-images.githubusercontent.com/62696096/84074080-44293900-a9d2-11ea-9efe-cbbcb4e95dc6.JPG)
+![21](https://user-images.githubusercontent.com/62696096/84161939-1d214480-aa70-11ea-8b80-5c5dbd75ff5e.JPG)
+3. [Comment fonctionne la réalité virtuelle? Etrange High-Tech!](https://www.youtube.com/watch?v=8_qqAkJnepw)
+![20](https://user-images.githubusercontent.com/62696096/84161980-29a59d00-aa70-11ea-8325-7b421108a4f7.JPG)
+4. [Le fonctionnement des casques VR](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/2-le-fonctionnement-des-casques-vr.html)
+![cxc](https://user-images.githubusercontent.com/62696096/84159554-7c318a00-aa6d-11ea-99a2-9201f798a39e.JPG)
+![19](https://user-images.githubusercontent.com/62696096/84159613-8e132d00-aa6d-11ea-8f83-6807646f6437.JPG)
+![16](https://user-images.githubusercontent.com/62696096/84159616-8eabc380-aa6d-11ea-8617-9d65aa5b8b27.JPG)
+![17](https://user-images.githubusercontent.com/62696096/84159618-8eabc380-aa6d-11ea-9e3d-279d7989ee54.JPG)
+![18](https://user-images.githubusercontent.com/62696096/84159619-8f445a00-aa6d-11ea-9d8f-31a73598d146.JPG)
+5. [Tout savoir sur les casques de réalité virtuelle](https://www.group-digital.fr/casque-realite-virtuelle.html)
 ![CMCM](https://user-images.githubusercontent.com/62696096/84074080-44293900-a9d2-11ea-9efe-cbbcb4e95dc6.JPG)
 
 
@@ -54,11 +64,17 @@ https://www.v-cult.com/blog/histoire-de-la-realite-virtuelle/
 
 1. [Aujourd'hui et demain: quels domaines d'application pour la réalité virtuelle?](https://www.wanadev.fr/73-aujourd-hui-et-demain-quels-domaines-d-application-pour-la-realite-virtuelle/)
 
+![22](https://user-images.githubusercontent.com/62696096/84162444-ad5f8980-aa70-11ea-8357-f0950781a4ab.JPG)
+![27](https://user-images.githubusercontent.com/62696096/84162964-4393af80-aa71-11ea-9721-b974b2b83561.JPG)
+![28](https://user-images.githubusercontent.com/62696096/84162967-4393af80-aa71-11ea-89d4-aa5a52eef9c6.JPG)
+
 2. [Les autres utilisations de la VR](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/3-les-autres-utilisations-de-la-vr.html)
 
-3. [Réalité virtuelle: les domaines d'application](http://tpe-realite-virtuelle-bscx-jnt.e-monsite.com/pages/3-les-autres-utilisations-de-la-vr.html)
+![23](https://user-images.githubusercontent.com/62696096/84163084-6756f580-aa71-11ea-8b08-f2885e171671.JPG)
+![24](https://user-images.githubusercontent.com/62696096/84163089-67ef8c00-aa71-11ea-9cce-5795a2885f83.JPG)
+![25](https://user-images.githubusercontent.com/62696096/84163091-67ef8c00-aa71-11ea-9ecd-8e3350e9b48d.JPG)
+![26](https://user-images.githubusercontent.com/62696096/84163099-68882280-aa71-11ea-9100-d4ca38163c5a.JPG)
 
-4. [La réalité augmentée et ses applications](https://www.futura-sciences.com/tech/dossiers/technologie-realite-augmentee-applications-977/)
 
 
 ### Les effets secondaires
