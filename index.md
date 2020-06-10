@@ -116,7 +116,7 @@ GROUPE LDLC. Casques de réalité virtuelle disponibles sur LDLC[en ligne]. [con
 
 ![capture 2](https://user-images.githubusercontent.com/62696096/84038745-9a7d8400-a9a0-11ea-825b-612c94f2e398.JPG)
 
-3. [FUCHS, Philippe. Les casques de réalité virtuelle et de jeux vidéo par Philippe Fuchs[en ligne]. Paris: Presse des MINES, 2016.[consulté le 1 mai 2020]. Disponible sur le Web:<https://www.pressesdesmines.com/wp-content/uploads/2016/03/Visio_Extr.pdf>
+3. [FUCHS, Philippe. Les casques de réalité virtuelle et de jeux vidéo [en ligne]. Paris: Presse des MINES, 2016.[consulté le 1 mai 2020]. Disponible sur le Web:<https://www.pressesdesmines.com/wp-content/uploads/2016/03/Visio_Extr.pdf>
 
 ![capture 3](https://user-images.githubusercontent.com/62696096/84038918-cc8ee600-a9a0-11ea-9f8e-f0fddaed786d.JPG)
 
