@@ -112,7 +112,7 @@ GROUPE LDLC. Casques de réalité virtuelle disponibles sur LDLC[en ligne]. [con
 ### Conclusion
 
 
-2. [JOLIVALT, Bernard. Ouvrage complet sur la réalité de Bernard Jolivalt[en ligne]. Presses universitaires de France. [consulté le 29 mars 2020]. Disponible sur le Web:<https://books.google.be/books?hl=fr&lr=&id=iXaJDwAAQBAJ&oi=fnd&pg=PT2&dq=casque+r%C3%A9alt%C3%A9+virtuelle&ots=7nmD83Wqxt&sig=4Eo852k3TEimLObG5lD2ntY08Co&redir_esc=y#v=onepage&q=casque%20r%C3%A9alt%C3%A9%20virtuelle&f=false> 
+2. JOLIVALT, Bernard. Ouvrage complet sur la réalité de Bernard Jolivalt[en ligne]. Presses universitaires de France. [consulté le 29 mars 2020]. Disponible sur le Web:<https://books.google.be/books?hl=fr&lr=&id=iXaJDwAAQBAJ&oi=fnd&pg=PT2&dq=casque+r%C3%A9alt%C3%A9+virtuelle&ots=7nmD83Wqxt&sig=4Eo852k3TEimLObG5lD2ntY08Co&redir_esc=y#v=onepage&q=casque%20r%C3%A9alt%C3%A9%20virtuelle&f=false> 
 
 ![capture 2](https://user-images.githubusercontent.com/62696096/84038745-9a7d8400-a9a0-11ea-825b-612c94f2e398.JPG)
 
