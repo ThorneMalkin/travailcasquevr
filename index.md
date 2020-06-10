@@ -80,7 +80,7 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 ![23](https://user-images.githubusercontent.com/62696096/84163084-6756f580-aa71-11ea-8b08-f2885e171671.JPG)
 ![24](https://user-images.githubusercontent.com/62696096/84163089-67ef8c00-aa71-11ea-9cce-5795a2885f83.JPG)
 ![25](https://user-images.githubusercontent.com/62696096/84163091-67ef8c00-aa71-11ea-9ecd-8e3350e9b48d.JPG)
-![26](https://user-images.githubusercontent.com/62696096/84163099-68882280-aa71-11ea-9100-d4ca38163c5a.JPG)
+
 
 
 
