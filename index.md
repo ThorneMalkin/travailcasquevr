@@ -98,7 +98,7 @@ Une conclusion à ce dossier documentaire rassemblera quelques documents traitan
 
 ![34](https://user-images.githubusercontent.com/62696096/84164345-b2bdd380-aa72-11ea-8efb-755a1d931ce7.JPG)
 
-### différents produits de réalité virtuelle disponibles sur le marché actuellement et critères de sélection à l'achat
+### Différents produits de réalité virtuelle disponibles sur le marché actuellement et critères de sélection à l'achat
 
 PIONNEAU, Fabien. Différents types de casques VR[en ligne]. Mis à jour le 26 mars 2020.[consulté le 3 mai 2020]. Disponible sur le Web:<https://www.lesnumeriques.com/casque-realite-virtuelle/casques-realite-virtuelle-a2305.html>
 
